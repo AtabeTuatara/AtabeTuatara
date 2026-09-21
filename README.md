@@ -1,11 +1,20 @@
-As of 2026, Humanity consumed 620 EJ/yr (excl. energy from food). With 8.3B humans on earth, that's >200MJ/DAY of energy per human available which is 56.8kWh/day, or enough to power an average home in the energy-hungriest country in the world for TWO DAYS, every day for the entire year.
+# 🎆 Decentralizing e-commerce
 
-Food shortages is a lie. Enough food for everyone exists but Western countries' financial systems waste ~30% by outbidding others. Since others can't pay to get enough, they starve. Not because the food doesn't exist, but because it's wasted. 
+{% hint style="info" %}
+**Entire "book" reading time**: <mark style="color:blue;">**\~5.5mins**</mark>
+{% endhint %}
 
-So I don't believe in sermons, verdicts or some stump speech.
+**Dema** is a decentralized virtual **retail** (i.e.: physical goods) marketplace for **shoppers** & **sellers** with >100M items on offer on day ONE. Think of it as a decentralized Amazon. It maximizes user value by:
 
-What I Love to do: Build useful (aka boring) stuff; things that’ll outlast me, not ones meant to be “me forever”; eg:  decentralized systems to share resources & knowledge freely using non-profit infra to roughly zero out costs. Marketplaces, water, energy, food, communication. You know, the things people actually need.
+* Letting **shoppers** browse and search any site: Using the Mobile Native & Desktop Browser-based Dema apps, shoppers save on available items — no matter the price even after discounts.
+* Ensuring **sellers**' total fees remain lower than any marketplace or their owned-shop. And in <3min, sellers can list all their offerings from existing marketplace listings & backend order mgmt systems.
 
-Current (decades long) Working Theory: Give individuals no reason to limit themselves & they’ll cheerfully hog, hoard & become even more selfish. Wild?!?! I know… 😏 I continue to sit out the crypto "casino" & no HODLing either (that's just a marketed brand of better "speculation"). Stock market --> The same! 
+Dema solves **THREE** critical marketplace problems.&#x20;
 
-Politely, I avoid anyone whose life plan is “live forever & get a statue”. Many more of those than you think; you might even be one!
+1. **Acquisition Costs**: Dema attracts shoppers and sellers by giving >50% of Dema's ownership for free just for completing transactions & referring others.&#x20;
+2. **Bait-and-Switch Tactics**: Dema’s policies & rules are governed by its users—sellers and shoppers. Governance is independent of ownership; Only users can propose & vote on policy changes.
+3. **Price of Attention**: Advertising on Dema happens even when shoppers are visiting other sites. It costs sellers nothing. Sellers' ownership stake can increase their advertising rotation.&#x20;
+
+### <mark style="color:blue;">Community Validation</mark>
+
+After live demos to >100 sellers & 200+ shoppers, feedback has been overwhelmingly positive, revealing strong demand for the Dema experience. 😃
