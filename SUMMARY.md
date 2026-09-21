@@ -1,7 +1,9 @@
 # Table of contents
 
-* [🎆 Decentralizing e-commerce](README.md)
-* [😧 The Problem & Solution](the-problem-and-solution.md)
-* [🛼 What is the User Experience?](what-is-the-user-experience.md)
-* [🛍️ Who wants to use Dema?](who-wants-to-use-dema.md)
-* [🗿 Why Free Ownership?](why-free-ownership.md)
+* [📨 Introduction](README.md)
+* [🎆 How shopping at Dema works?](how-shopping-at-dema-works.md)
+* [🛍️ Why this User Experience?](why-this-user-experience.md)
+* [🤳 How do Dema's shoppers get their stuff?](how-do-demas-shoppers-get-their-stuff.md)
+* [🔐 Escrow & the need for liquidity](escrow-and-the-need-for-liquidity.md)
+* [⚙️ How the AOS was born](how-the-aos-was-born.md)
+* [🩳 Recap Summary](recap-summary.md)
