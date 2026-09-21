@@ -1,0 +1,16 @@
+# Table of contents
+
+* [🙈 TL;DR (<1min read)](README.md)
+* [🛍️ Expanded Summary](expanded-summary.md)
+* [📹 Demo](demo.md)
+* [💰 Unit Economics](unit-economics.md)
+* [🍯 User Value Proposition](user-value-proposition.md)
+* [🤿 Deeper Dive](deeper-dive/README.md)
+  * [🤯 The Problem & its data](deeper-dive/the-problem-and-its-data.md)
+  * [🥣 The Operational Plan](deeper-dive/the-operational-plan.md)
+  * [💡 The Solution Construct](deeper-dive/the-solution-construct.md)
+  * [🙏 The Vision: Sovereign Portable Reputation](deeper-dive/the-vision-sovereign-portable-reputation.md)
+* [❓ Answers to some Q's](answers-to-some-qs/README.md)
+  * [⚙️ Operating Principles](answers-to-some-qs/operating-principles.md)
+  * [🫂 What we decentralized](answers-to-some-qs/what-we-decentralized.md)
+* [⛽ Want to help? Here's how!](want-to-help-heres-how.md)
